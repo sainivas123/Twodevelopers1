@@ -1,6 +1,6 @@
 #This is development code
 def am():
-  return("Hello amar")
+  return("Hello amarjyoti")
 def hw():
   return("Hello world")
 
