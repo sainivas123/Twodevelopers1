@@ -1,5 +1,5 @@
 #This is Test Code 
-from cmain1 import hw
+from cmain1 import hw,am
 import unittest
 
 class SimpleCalll(unittest.TestCase):
