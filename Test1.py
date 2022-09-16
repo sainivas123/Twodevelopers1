@@ -13,7 +13,11 @@ class SimpleCalll(unittest.TestCase):
      def test_main(self):
          #Code for the test
          self.assertEqual(hw(),"Hello world",'We are Equal')
+          
+     def test_main1(self):
+         #Code for the test   
          self.assertEqual(am(),"Hello amarjyoti",'We are Equal')
+     
          
 if __name__ == '__main__':
     unittest.main()
